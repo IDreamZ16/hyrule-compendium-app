@@ -2,6 +2,7 @@
 A vanilla JavaScript web app that lets you explore the Breath of the Wild creature and item encyclopedia — browsing by category and diving into individual entries with expandable detail panels.
 
 ![Hyrule Compendium Demo]
+<img width="1104" height="525" alt="hyrule-compendium-app-demo" src="https://github.com/user-attachments/assets/fd77ea5c-4d3a-428d-be15-b030dac1b589" />
 
 Features
 
